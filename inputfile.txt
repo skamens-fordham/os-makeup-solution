@@ -1,0 +1,5 @@
+ls ; ; ls
+./randomsleep
+echo how are you doing
+quit
+
